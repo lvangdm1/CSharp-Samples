@@ -1,7 +1,0 @@
-C:\Users\Vang-Z\source\repos\CSharpExamples\CSharpExamples\bin\Debug\CSharpExamples.exe.config
-C:\Users\Vang-Z\source\repos\CSharpExamples\CSharpExamples\bin\Debug\CSharpExamples.exe
-C:\Users\Vang-Z\source\repos\CSharpExamples\CSharpExamples\bin\Debug\CSharpExamples.pdb
-C:\Users\Vang-Z\source\repos\CSharpExamples\CSharpExamples\obj\Debug\0CSharpExamples.csproj.CoreCompileInputs.cache
-C:\Users\Vang-Z\source\repos\CSharpExamples\CSharpExamples\obj\Debug\CSharpExamples.exe
-C:\Users\Vang-Z\source\repos\CSharpExamples\CSharpExamples\obj\Debug\CSharpExamples.pdb
-C:\Users\Vang-Z\source\repos\CSharpExamples\CSharpExamples\obj\Debug\0CSharpExamples.csprojAssemblyReference.cache
