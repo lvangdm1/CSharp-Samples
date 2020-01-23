@@ -1,7 +1,0 @@
-C:\Users\Vang-Z\source\repos\CSharpMyExamples\TestDeleteMe1\bin\Debug\TestDeleteMe1.exe.config
-C:\Users\Vang-Z\source\repos\CSharpMyExamples\TestDeleteMe1\bin\Debug\TestDeleteMe1.exe
-C:\Users\Vang-Z\source\repos\CSharpMyExamples\TestDeleteMe1\bin\Debug\TestDeleteMe1.pdb
-C:\Users\Vang-Z\source\repos\CSharpMyExamples\TestDeleteMe1\obj\Debug\TestDeleteMe1.csprojAssemblyReference.cache
-C:\Users\Vang-Z\source\repos\CSharpMyExamples\TestDeleteMe1\obj\Debug\TestDeleteMe1.csproj.CoreCompileInputs.cache
-C:\Users\Vang-Z\source\repos\CSharpMyExamples\TestDeleteMe1\obj\Debug\TestDeleteMe1.exe
-C:\Users\Vang-Z\source\repos\CSharpMyExamples\TestDeleteMe1\obj\Debug\TestDeleteMe1.pdb
