@@ -8,7 +8,8 @@ namespace BasicStrings
 {
     class Program
     {
-
+        // Here are some quick sample code examples. Thanks for visiting! 
+        // Right click on any project then select "Set as startup project"
 
         static void Main(string[] args)
         {
