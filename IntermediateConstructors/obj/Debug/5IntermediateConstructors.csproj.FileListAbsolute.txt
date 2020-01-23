@@ -1,0 +1,14 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\IntermediateConstructors\bin\Debug\IntermediateConstructors.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\IntermediateConstructors\bin\Debug\IntermediateConstructors.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\IntermediateConstructors\bin\Debug\IntermediateConstructors.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\IntermediateConstructors\obj\Debug\5IntermediateConstructors.csprojAssemblyReference.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\IntermediateConstructors\obj\Debug\5IntermediateConstructors.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\IntermediateConstructors\obj\Debug\IntermediateConstructors.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\IntermediateConstructors\obj\Debug\IntermediateConstructors.pdb
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\IntermediateConstructors\bin\Debug\IntermediateConstructors.exe.config
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\IntermediateConstructors\bin\Debug\IntermediateConstructors.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\IntermediateConstructors\bin\Debug\IntermediateConstructors.pdb
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\IntermediateConstructors\obj\Debug\5IntermediateConstructors.csprojAssemblyReference.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\IntermediateConstructors\obj\Debug\5IntermediateConstructors.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\IntermediateConstructors\obj\Debug\IntermediateConstructors.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\IntermediateConstructors\obj\Debug\IntermediateConstructors.pdb

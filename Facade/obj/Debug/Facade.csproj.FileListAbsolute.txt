@@ -1,0 +1,7 @@
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Facade\bin\Debug\Facade.exe.config
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Facade\bin\Debug\Facade.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Facade\bin\Debug\Facade.pdb
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Facade\obj\Debug\Facade.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Facade\obj\Debug\Facade.pdb

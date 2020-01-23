@@ -1,0 +1,6 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\CountingLoop\obj\Debug\CountingLoop.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\CountingLoop\bin\Debug\CountingLoop.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\CountingLoop\bin\Debug\CountingLoop.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\CountingLoop\bin\Debug\CountingLoop.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\CountingLoop\obj\Debug\CountingLoop.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\CountingLoop\obj\Debug\CountingLoop.pdb

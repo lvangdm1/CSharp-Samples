@@ -1,0 +1,7 @@
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\VirtualMethod\bin\Debug\VirtualMethod.exe.config
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\VirtualMethod\bin\Debug\VirtualMethod.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\VirtualMethod\bin\Debug\VirtualMethod.pdb
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\VirtualMethod\obj\Debug\VirtualMethod.csprojAssemblyReference.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\VirtualMethod\obj\Debug\VirtualMethod.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\VirtualMethod\obj\Debug\VirtualMethod.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\VirtualMethod\obj\Debug\VirtualMethod.pdb

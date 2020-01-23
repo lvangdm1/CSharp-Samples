@@ -1,0 +1,7 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\ExplicitInterface\bin\Debug\ExplicitInterface.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\ExplicitInterface\bin\Debug\ExplicitInterface.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\ExplicitInterface\bin\Debug\ExplicitInterface.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\ExplicitInterface\obj\Debug\ExplicitInterface.csprojAssemblyReference.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\ExplicitInterface\obj\Debug\ExplicitInterface.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\ExplicitInterface\obj\Debug\ExplicitInterface.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\ExplicitInterface\obj\Debug\ExplicitInterface.pdb

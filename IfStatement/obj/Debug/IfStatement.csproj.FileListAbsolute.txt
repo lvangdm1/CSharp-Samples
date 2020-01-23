@@ -1,0 +1,6 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\IfStatement\bin\Debug\IfStatement.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\IfStatement\bin\Debug\IfStatement.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\IfStatement\bin\Debug\IfStatement.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\IfStatement\obj\Debug\IfStatement.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\IfStatement\obj\Debug\IfStatement.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\IfStatement\obj\Debug\IfStatement.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\SinglyLinkedList\bin\Debug\SinglyLinkedList.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\SinglyLinkedList\bin\Debug\SinglyLinkedList.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\SinglyLinkedList\bin\Debug\SinglyLinkedList.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\SinglyLinkedList\obj\Debug\SinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\SinglyLinkedList\obj\Debug\SinglyLinkedList.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\SinglyLinkedList\obj\Debug\SinglyLinkedList.pdb

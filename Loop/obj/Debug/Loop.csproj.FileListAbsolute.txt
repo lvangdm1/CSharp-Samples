@@ -1,0 +1,6 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\Loop\bin\Debug\Loop.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\Loop\bin\Debug\Loop.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\Loop\bin\Debug\Loop.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\Loop\obj\Debug\Loop.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\Loop\obj\Debug\Loop.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\Array\bin\Debug\Array.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\Array\bin\Debug\Array.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\Array\bin\Debug\Array.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\Array\obj\Debug\Array.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\Array\obj\Debug\Array.pdb

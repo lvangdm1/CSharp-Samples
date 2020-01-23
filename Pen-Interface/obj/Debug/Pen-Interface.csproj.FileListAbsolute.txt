@@ -1,0 +1,7 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\Pen-Interface\bin\Debug\Pen-Interface.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\Pen-Interface\bin\Debug\Pen-Interface.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\Pen-Interface\bin\Debug\Pen-Interface.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\Pen-Interface\obj\Debug\Pen-Interface.csprojAssemblyReference.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\Pen-Interface\obj\Debug\Pen-Interface.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\Pen-Interface\obj\Debug\Pen-Interface.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\Pen-Interface\obj\Debug\Pen-Interface.pdb

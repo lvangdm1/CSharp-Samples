@@ -1,0 +1,7 @@
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Properties\bin\Debug\Properties.exe.config
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Properties\bin\Debug\Properties.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Properties\bin\Debug\Properties.pdb
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Properties\obj\Debug\Properties.csprojAssemblyReference.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Properties\obj\Debug\Properties.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Properties\obj\Debug\Properties.pdb

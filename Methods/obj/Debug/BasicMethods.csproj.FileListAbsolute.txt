@@ -1,0 +1,6 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\Methods\bin\Debug\Methods.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\Methods\bin\Debug\Methods.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\Methods\bin\Debug\Methods.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\Methods\obj\Debug\BasicMethods.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\Methods\obj\Debug\Methods.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\Methods\obj\Debug\Methods.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\Queue\bin\Debug\Queue.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\Queue\bin\Debug\Queue.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\Queue\bin\Debug\Queue.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\Queue\obj\Debug\Queue.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\Queue\obj\Debug\Queue.pdb

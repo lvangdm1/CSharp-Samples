@@ -1,0 +1,6 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\LinearSearch2\bin\Debug\LinearSearch2.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\LinearSearch2\bin\Debug\LinearSearch2.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\LinearSearch2\bin\Debug\LinearSearch2.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\LinearSearch2\obj\Debug\LinearSearch2.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\LinearSearch2\obj\Debug\LinearSearch2.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\LinearSearch2\obj\Debug\LinearSearch2.pdb

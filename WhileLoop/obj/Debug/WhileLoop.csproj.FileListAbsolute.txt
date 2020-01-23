@@ -1,0 +1,6 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\WhileLoop\bin\Debug\WhileLoop.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\WhileLoop\bin\Debug\WhileLoop.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\WhileLoop\bin\Debug\WhileLoop.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\WhileLoop\obj\Debug\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\WhileLoop\obj\Debug\WhileLoop.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\WhileLoop\obj\Debug\WhileLoop.pdb

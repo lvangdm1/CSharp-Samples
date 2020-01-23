@@ -1,0 +1,7 @@
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ClassAsMethod\bin\Debug\ClassAsMethod.exe.config
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ClassAsMethod\bin\Debug\ClassAsMethod.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ClassAsMethod\bin\Debug\ClassAsMethod.pdb
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ClassAsMethod\obj\Debug\ClassAsMethod.csprojAssemblyReference.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ClassAsMethod\obj\Debug\ClassAsMethod.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ClassAsMethod\obj\Debug\ClassAsMethod.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ClassAsMethod\obj\Debug\ClassAsMethod.pdb

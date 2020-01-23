@@ -1,0 +1,7 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\ProtectedMethods\bin\Debug\ProtectedMethods.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\ProtectedMethods\bin\Debug\ProtectedMethods.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\ProtectedMethods\bin\Debug\ProtectedMethods.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\ProtectedMethods\obj\Debug\ProtectedMethods.csprojAssemblyReference.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\ProtectedMethods\obj\Debug\ProtectedMethods.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\ProtectedMethods\obj\Debug\ProtectedMethods.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\ProtectedMethods\obj\Debug\ProtectedMethods.pdb

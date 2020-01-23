@@ -1,0 +1,7 @@
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Delegates\bin\Debug\Delegates.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Delegates\obj\Debug\Delegates.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Delegates\obj\Debug\Delegates.pdb

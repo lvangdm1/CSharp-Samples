@@ -1,0 +1,6 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\BinarySearch\obj\Debug\BinarySearch.pdb

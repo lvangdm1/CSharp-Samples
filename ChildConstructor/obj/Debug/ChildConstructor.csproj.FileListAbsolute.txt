@@ -1,0 +1,7 @@
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ChildConstructor\bin\Debug\ChildConstructor.exe.config
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ChildConstructor\bin\Debug\ChildConstructor.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ChildConstructor\bin\Debug\ChildConstructor.pdb
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ChildConstructor\obj\Debug\ChildConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ChildConstructor\obj\Debug\ChildConstructor.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ChildConstructor\obj\Debug\ChildConstructor.pdb
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ChildConstructor\obj\Debug\ChildConstructor.csprojAssemblyReference.cache

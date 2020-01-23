@@ -1,0 +1,14 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\PassingInterfaces\bin\Debug\PassingInterfaces.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\PassingInterfaces\bin\Debug\PassingInterfaces.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\PassingInterfaces\bin\Debug\PassingInterfaces.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\PassingInterfaces\obj\Debug\PassingInterfaces.csprojAssemblyReference.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\PassingInterfaces\obj\Debug\PassingInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\PassingInterfaces\obj\Debug\PassingInterfaces.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\PassingInterfaces\obj\Debug\PassingInterfaces.pdb
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\PassingInterfaces\bin\Debug\PassingInterfaces.exe.config
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\PassingInterfaces\bin\Debug\PassingInterfaces.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\PassingInterfaces\bin\Debug\PassingInterfaces.pdb
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\PassingInterfaces\obj\Debug\PassingInterfaces.csprojAssemblyReference.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\PassingInterfaces\obj\Debug\PassingInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\PassingInterfaces\obj\Debug\PassingInterfaces.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\PassingInterfaces\obj\Debug\PassingInterfaces.pdb

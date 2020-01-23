@@ -1,0 +1,7 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\IntermediateMethods\bin\Debug\IntermediateMethods.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\IntermediateMethods\bin\Debug\IntermediateMethods.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\IntermediateMethods\bin\Debug\IntermediateMethods.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\IntermediateMethods\obj\Debug\2IntermediateMethods.csprojAssemblyReference.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\IntermediateMethods\obj\Debug\2IntermediateMethods.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\IntermediateMethods\obj\Debug\IntermediateMethods.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\IntermediateMethods\obj\Debug\IntermediateMethods.pdb

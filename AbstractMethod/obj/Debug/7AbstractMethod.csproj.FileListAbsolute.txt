@@ -1,0 +1,7 @@
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\AbstractMethod\bin\Debug\AbstractMethod.exe.config
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\AbstractMethod\bin\Debug\AbstractMethod.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\AbstractMethod\bin\Debug\AbstractMethod.pdb
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\AbstractMethod\obj\Debug\7AbstractMethod.csprojAssemblyReference.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\AbstractMethod\obj\Debug\7AbstractMethod.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\AbstractMethod\obj\Debug\AbstractMethod.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\AbstractMethod\obj\Debug\AbstractMethod.pdb

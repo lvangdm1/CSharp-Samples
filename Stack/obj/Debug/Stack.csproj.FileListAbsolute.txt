@@ -1,0 +1,6 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\Stack\bin\Debug\Stack.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\Stack\bin\Debug\Stack.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\Stack\bin\Debug\Stack.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\Stack\obj\Debug\Stack.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\Stack\obj\Debug\Stack.pdb

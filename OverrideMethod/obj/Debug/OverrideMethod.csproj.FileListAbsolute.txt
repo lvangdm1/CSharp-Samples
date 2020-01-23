@@ -1,0 +1,7 @@
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\OverrideMethod\bin\Debug\OverrideMethod.exe.config
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\OverrideMethod\bin\Debug\OverrideMethod.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\OverrideMethod\bin\Debug\OverrideMethod.pdb
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\OverrideMethod\obj\Debug\OverrideMethod.csprojAssemblyReference.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\OverrideMethod\obj\Debug\OverrideMethod.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\OverrideMethod\obj\Debug\OverrideMethod.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\OverrideMethod\obj\Debug\OverrideMethod.pdb

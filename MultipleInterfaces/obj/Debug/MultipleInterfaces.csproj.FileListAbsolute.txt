@@ -1,0 +1,6 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\MultipleInterfaces\bin\Debug\MultipleInterfaces.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\MultipleInterfaces\bin\Debug\MultipleInterfaces.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\MultipleInterfaces\bin\Debug\MultipleInterfaces.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\MultipleInterfaces\obj\Debug\MultipleInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\MultipleInterfaces\obj\Debug\MultipleInterfaces.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\MultipleInterfaces\obj\Debug\MultipleInterfaces.pdb

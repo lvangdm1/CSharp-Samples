@@ -1,0 +1,6 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\List2\bin\Debug\List2.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\List2\bin\Debug\List2.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\List2\bin\Debug\List2.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\List2\obj\Debug\List2.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\List2\obj\Debug\List2.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\List2\obj\Debug\List2.pdb

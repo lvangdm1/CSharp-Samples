@@ -1,0 +1,13 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\Constructors\bin\Debug\Constructors.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\Constructors\bin\Debug\Constructors.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\Constructors\obj\Debug\4BasicConstructors.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\Constructors\obj\Debug\Constructors.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\Constructors\obj\Debug\Constructors.pdb
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Constructors\bin\Debug\Constructors.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Constructors\bin\Debug\Constructors.pdb
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Constructors\obj\Debug\4BasicConstructors.csprojAssemblyReference.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Constructors\obj\Debug\4BasicConstructors.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Constructors\obj\Debug\Constructors.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\Constructors\obj\Debug\Constructors.pdb

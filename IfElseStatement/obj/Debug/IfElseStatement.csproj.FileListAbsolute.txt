@@ -1,0 +1,6 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\IfElseStatement\bin\Debug\IfElseStatement.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\IfElseStatement\bin\Debug\IfElseStatement.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\IfElseStatement\bin\Debug\IfElseStatement.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\IfElseStatement\obj\Debug\IfElseStatement.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\IfElseStatement\obj\Debug\IfElseStatement.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\IfElseStatement\obj\Debug\IfElseStatement.pdb

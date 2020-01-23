@@ -1,0 +1,7 @@
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ThreadSafety\bin\Debug\ThreadSafety.exe.config
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ThreadSafety\bin\Debug\ThreadSafety.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ThreadSafety\bin\Debug\ThreadSafety.pdb
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ThreadSafety\obj\Debug\ThreadSafety.csprojAssemblyReference.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ThreadSafety\obj\Debug\ThreadSafety.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ThreadSafety\obj\Debug\ThreadSafety.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ThreadSafety\obj\Debug\ThreadSafety.pdb

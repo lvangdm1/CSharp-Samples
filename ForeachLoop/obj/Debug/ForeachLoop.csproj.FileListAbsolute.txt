@@ -1,0 +1,6 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\ForeachLoop\obj\Debug\ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\ForeachLoop\bin\Debug\ForeachLoop.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\ForeachLoop\bin\Debug\ForeachLoop.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\ForeachLoop\bin\Debug\ForeachLoop.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\ForeachLoop\obj\Debug\ForeachLoop.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\ForeachLoop\obj\Debug\ForeachLoop.pdb

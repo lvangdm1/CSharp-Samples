@@ -1,0 +1,7 @@
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ComputerInterface\obj\Debug\ComputerInterface.csprojAssemblyReference.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ComputerInterface\obj\Debug\ComputerInterface.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ComputerInterface\bin\Debug\ComputerInterface.exe.config
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ComputerInterface\bin\Debug\ComputerInterface.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ComputerInterface\bin\Debug\ComputerInterface.pdb
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ComputerInterface\obj\Debug\ComputerInterface.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\ComputerInterface\obj\Debug\ComputerInterface.pdb

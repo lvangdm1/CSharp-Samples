@@ -1,0 +1,7 @@
+C:\Users\Vang-Z\source\repos\CSharpExamples\BasicStrings\bin\Debug\BasicStrings.exe.config
+C:\Users\Vang-Z\source\repos\CSharpExamples\BasicStrings\bin\Debug\BasicStrings.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\BasicStrings\bin\Debug\BasicStrings.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\BasicStrings\obj\Debug\0.1BasicStrings.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpExamples\BasicStrings\obj\Debug\BasicStrings.exe
+C:\Users\Vang-Z\source\repos\CSharpExamples\BasicStrings\obj\Debug\BasicStrings.pdb
+C:\Users\Vang-Z\source\repos\CSharpExamples\BasicStrings\obj\Debug\0.1BasicStrings.csprojAssemblyReference.cache

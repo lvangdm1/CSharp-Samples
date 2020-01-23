@@ -1,0 +1,7 @@
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\NoParameterMethod\bin\Debug\NoParameterMethod.exe.config
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\NoParameterMethod\bin\Debug\NoParameterMethod.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\NoParameterMethod\bin\Debug\NoParameterMethod.pdb
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\NoParameterMethod\obj\Debug\NoParameterMethod.csprojAssemblyReference.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\NoParameterMethod\obj\Debug\NoParameterMethod.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\NoParameterMethod\obj\Debug\NoParameterMethod.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\NoParameterMethod\obj\Debug\NoParameterMethod.pdb

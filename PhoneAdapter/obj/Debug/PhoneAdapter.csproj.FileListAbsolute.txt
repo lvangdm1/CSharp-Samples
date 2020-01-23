@@ -1,0 +1,7 @@
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\PhoneAdapter\bin\Debug\PhoneAdapter.exe.config
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\PhoneAdapter\bin\Debug\PhoneAdapter.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\PhoneAdapter\bin\Debug\PhoneAdapter.pdb
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\PhoneAdapter\obj\Debug\PhoneAdapter.csprojAssemblyReference.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\PhoneAdapter\obj\Debug\PhoneAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\PhoneAdapter\obj\Debug\PhoneAdapter.exe
+C:\Users\Vang-Z\source\repos\CSharpMyExamples\PhoneAdapter\obj\Debug\PhoneAdapter.pdb
